@@ -101,6 +101,13 @@ color:rgb(112, 112, 240);
 .change-theme, .change-theme-name {
   color: var(--text-color);
 }
+p
+
+{
+
+color:blue;
+
+}
 
 .change-theme {
   cursor: pointer;
