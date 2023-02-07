@@ -90,6 +90,13 @@ body.dark-theme {
   left: 3rem;
   bottom: 4rem;
 }
+p
+
+{
+
+color:blue;
+
+}
 
 .change-theme, .change-theme-name {
   color: var(--text-color);
